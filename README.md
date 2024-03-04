@@ -1,4 +1,3 @@
 # Analyzátor sieťovej komunikácie
 
-Projekt načítava .pcap súbor s zaznamenanou komunikáciou a následne vytvorí utriedenú komunikáciu posielaných pakcet-ov.
-Výstup je uložený do .yaml súbore nachádzajúci sa v `./yaml_output`
+Projekt slúži na analýzu sieťovej komunikácie, kde načítava .pcap súbory s zaznamenanou komunikáciou. Následne vytvára utriedený prehľad odosielaných paketov. Výsledky analýzy sú ukladané do .yaml súborov, ktoré sú následne umiestnené v adresári `./yaml_output`.
